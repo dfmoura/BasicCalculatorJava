@@ -1,2 +1,2 @@
 # BasicCalculatorJava
-Calculadora como operações básicas.
+Calculadora com operações básicas.
